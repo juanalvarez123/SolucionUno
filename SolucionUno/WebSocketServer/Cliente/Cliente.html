@@ -143,6 +143,7 @@
             $('#btnConectar').attr('disabled', true); //Boton conectar deshabilitado
             $.connection.hub.start().done(function () {
                 //Se inicia la conexion
+                alert('Conexión establecida');
                 $('#btnDesconectar').attr('disabled', false); //Boton desconectar habilitado
             });
         }
@@ -150,6 +151,7 @@
         function desconectar() {
             //Se detiene la conexion
             $.connection.hub.stop();
+            alert('Desconectado');
             $('#btnConectar').attr('disabled', false); //Boton conectar habilitado
             $('#btnDesconectar').attr('disabled', true); //Boton desconectar deshabilitado
         }
