@@ -17,5 +17,7 @@ NOTA: En algunas ocaciones Visual Studio indica que hay errores en los archivo t
 Entonces, si al llegar a correr el sitio web apareen estos errores Vicual Studio indicará el siguiente mensaje “There were build errors. Would you like to continue and run the last succesful build?”, hacer clic en “Yes” y la aplicación funcionará correctamente.
 
 Desarrollado por: Juan Sebastian Alvarez Eraso
+
 Fecha: 27/07/2014
+
 Contacto: juan_alvarez_12345@hotmail.com
