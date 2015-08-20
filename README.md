@@ -14,7 +14,7 @@ Instrucciones:
 
 NOTA: En algunas ocaciones Visual Studio indica que hay errores en los archivo temporales, algo asi como: “Error: Source file 'c:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\6ae034c9\e39d029a\App_Web_ort1zu4m.0.cs' could not be opened ('El sistema no puede encontrar el archivo especificado. ')”. No necesariamente representa un error en la aplicación.
 
-Entonces, si al llegar a correr el sitio web apareen estos errores Vicual Studio indicará el siguiente mensaje “There were build errors. Would you like to continue and run the last succesful build?”, hacer clic en “Yes” y la aplicación funcionará correctamente.
+Entonces, si al llegar a correr el sitio web apareen estos errores Visual Studio indicará el siguiente mensaje “There were build errors. Would you like to continue and run the last succesful build?”, hacer clic en “Yes” y la aplicación funcionará correctamente.
 
 Desarrollado por: Juan Sebastian Alvarez Eraso
 
