@@ -1,8 +1,8 @@
-SolucionUno
-===========
+# Web sockets and SignalR
+
 Este es un proyecto ejemplo de conexión vía web sockets usando SignalR de Microsoft ASP.NET. La conexión cliente es una página web que recibe datos en tiempo real y los dibuja en una gráfica. La conexión que envía los datos es un generador de números aleatorios. El servidor que se encarga de recibir, administrar y transmitir los datos es una aplicación web ASP.NET.
 
-Instrucciones:
+## Instrucciones
 
 1. Abrir la solución del proyecto SolucionUno.sln con Visual Studio 2012
 2. Una vez abierto, correr el sitio web WebSocketServer
@@ -16,8 +16,4 @@ NOTA: En algunas ocaciones Visual Studio indica que hay errores en los archivo t
 
 Entonces, si al llegar a correr el sitio web apareen estos errores Visual Studio indicará el siguiente mensaje “There were build errors. Would you like to continue and run the last succesful build?”, hacer clic en “Yes” y la aplicación funcionará correctamente.
 
-Desarrollado por: Juan Sebastian Alvarez Eraso
-
 Fecha: 27/07/2014
-
-Contacto: juan_alvarez_12345@hotmail.com
